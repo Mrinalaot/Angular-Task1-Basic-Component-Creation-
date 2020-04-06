@@ -1,0 +1,6 @@
+#my-head {
+    background-color: aqua;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+}
